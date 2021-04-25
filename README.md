@@ -8,3 +8,4 @@ a) I already added error checking in my submission for homework 1 so there wasn'
 b) The file ryan_smith_hw2.py is the program with error checking
 
 c)
+![Image description](flowchart.png)
