@@ -1,4 +1,4 @@
-#ryan_smith_hw1.py
+#ryan_smith_hw2.py
 #Ryan Smith
 #smithry9@oregonstate.edu
 #Takes an year input from a user and determines if that year is a leap year.
